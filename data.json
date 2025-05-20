@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Apple",
+    "modelo": "iPhone 13",
+    "color": "Azul",
+    "almacenamiento": "128GB",
+    "procesador": "A15 Bionic"
+  },
+  {
+    "id": 2,
+    "nombre": "Samsung",
+    "modelo": "Galaxy S22",
+    "color": "Negro",
+    "almacenamiento": "256GB",
+    "procesador": "Exynos 2200"
+  },
+  {
+    "id": 3,
+    "nombre": "Xiaomi",
+    "modelo": "Mi 12",
+    "color": "Gris",
+    "almacenamiento": "128GB",
+    "procesador": "Snapdragon 8cx Gen 3"
+  },
+  {
+    "id": 4,
+    "nombre": "Huawei",
+    "modelo": "P50 Pro",
+    "color": "Rosa",
+    "almacenamiento": "256GB",
+    "procesador": "Kirin 9000"
+  }
+]
